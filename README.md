@@ -29,12 +29,16 @@ Elabore programas en C para cada uno de los siguientes puntos:
 ## Pre-requisitos
 * GNU Compiler Collection | [https://gcc.gnu.org](https://gcc.gnu.org)
 * Make Building tool | [https://www.gnu.org/software/make/](https://www.gnu.org/software/make/)
+* GNU Multiple Precision Arithmetic Library | [https://gmplib.org](https://gmplib.org)
 
 ### Librerias de terceros
 
-* Unity Testing | [http://www.throwtheswitch.org/unity](http://www.throwtheswitch.org/unity)
+* Unity Testing | [https://github.com/ThrowTheSwitch/Unity](https://github.com/ThrowTheSwitch/Unity)
 
 ## Recursos
+
+* Makefile Cheatsheet | [https://devhints.io/makefile](https://devhints.io/makefile)
+* GMP Manual | [https://gmplib.org/manual/](https://gmplib.org/manual/)
 
 ## Documentacion
 para construición de la documentacion: 

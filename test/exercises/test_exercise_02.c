@@ -10,5 +10,5 @@ void tearDown(void) {}
 // Defines a single test.
 void test_example(void)
 {
-  
+  TEST_ASSERT_TRUE (1<2)
 }
